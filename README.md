@@ -5,6 +5,8 @@ Work in progress video game made in Unity using Netcode for GameObjects
 
 Working Title: SpewkiCity
 
+Discord: spewkihecks#2640
+
 Current Version: 0.0.1
 
 ~~MultiplayerAlpha0~~
