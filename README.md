@@ -28,6 +28,12 @@ Current Version: 0.0.1
 - Live MiniMap
 - Wave Spawning System
 
+<b><h2>LATEST VIDEOS</h2></b>
+
+- Opening Animation https://streamable.com/84a6nt
+- Auto Pick-Up https://streamable.com/b5w61z
+- Turret AI https://streamable.com/m2tkj3
+
 <b><h2>STATISTIC INFORMATION</h2></b>
 
 <b><h3>Health (Base 100)</h3></b>
