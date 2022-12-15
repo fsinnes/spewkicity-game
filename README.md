@@ -36,19 +36,19 @@ Current Version: 0.0.1
 
 <b><h2>LATEST VIDEOS</h2></b>
 
-- Multiplayer Testing
+Multiplayer Testing
 
 https://streamable.com/whcj6z
 
-- Opening Animation
+Opening Animation
 
 https://streamable.com/84a6nt
 
-- Auto Pick-Up 
+Auto Pick-Up 
 
 https://streamable.com/b5w61z
 
-- Turret AI
+Turret AI
 
 https://streamable.com/m2tkj3
 
@@ -58,19 +58,49 @@ https://streamable.com/m2tkj3
 
 <b><h5>Increase max health</h5></b>
 
-<b><h5>Level 2. (+20%)  |  3. (+40%)  |  4. (+60%)  |  5. (+80%)  |  6. (+100%)</h5></b>
+<b><h5>Level</h5></b>
+
+2. (+20%)
+
+3. (+40%)
+
+4. (+60%)
+
+5. (+80%)
+
+6. (+100%)
 
 <b><h3>Stamina (Base 1000)</h3></b>
 
-<b><h5>Level 2. (+20%)  |  3. (+40%)  |  4. (+60%)  |  5. (+80%)  |  6. (+100%)</h5></b>
-
 <b><h5>Increases max stamina</h5></b>
+
+<b><h5>Level</h5></b>
+
+2. (+20%)
+
+3. (+40%)
+
+4. (+60%)
+
+5. (+80%)
+
+6. (+100%)
 
 <b><h3>Building (Base 100)</h3></b>
 
-<b><h5>Level 2. (-10%)  |  3. (-20%)  |  4. (-30%)  |  5. (-40%)  |  6. (-50%)</h5></b>
-
 <b><h5>Decreases building cost</h5></b>
+
+<b><h5>Level</h5></b>
+
+2. (-10%)
+
+3. (-20%)
+
+4. (-30%)
+
+5. (-40%)
+
+6. (-50%)
 
 <b><h2>PERK INFORMATION</h2></b>
 
