@@ -10,7 +10,9 @@ Discord: spewkihecks#2640
 Current Version: 0.0.1
 
 ~~MultiplayerAlpha0~~
+
 ~~MultiplayerAlpha1~~
+
 ~~MultiplayerAlpha2~~
 
 <b><h3>MultiplayerAlpha3(PC)</h3></b>
@@ -34,10 +36,21 @@ Current Version: 0.0.1
 
 <b><h2>LATEST VIDEOS</h2></b>
 
-- Multiplayer Testing https://streamable.com/whcj6z
-- Opening Animation https://streamable.com/84a6nt
-- Auto Pick-Up https://streamable.com/b5w61z
-- Turret AI https://streamable.com/m2tkj3
+- Multiplayer Testing
+
+https://streamable.com/whcj6z
+
+- Opening Animation
+
+https://streamable.com/84a6nt
+
+- Auto Pick-Up 
+
+https://streamable.com/b5w61z
+
+- Turret AI
+
+https://streamable.com/m2tkj3
 
 <b><h2>STATISTIC INFORMATION</h2></b>
 
