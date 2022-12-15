@@ -56,7 +56,7 @@ https://streamable.com/m2tkj3
 
 <b><h3>Health (Base 100)</h3></b>
 
-<b><h5>Increase max health</h5></b>
+<b><h5>Increases max health</h5></b>
 
 <b><h5>Level</h5></b>
 
