@@ -10,14 +10,16 @@ Discord: spewkihecks#2640
 Current Version: 0.0.1
 
 ~~MultiplayerAlpha0~~
+~~MultiplayerAlpha1~~
+~~MultiplayerAlpha2~~
 
-<b><h3>MultiplayerAlpha1(PC)</h3></b>
+<b><h3>MultiplayerAlpha3(PC)</h3></b>
 
-*available upon request*
+*coming December 16th*
 
-<b><h3>MultiplayerAlpha1(MAC)</h3></b>
+<b><h3>MultiplayerAlpha3(MAC)</h3></b>
 
-*available upon request*
+*coming December 16th*
 
 <b><h2>CURRENT FEATURES</h2></b>
 
@@ -56,3 +58,21 @@ Current Version: 0.0.1
 <b><h5>Level 2. (-10%)  |  3. (-20%)  |  4. (-30%)  |  5. (-40%)  |  6. (-50%)</h5></b>
 
 <b><h5>Decreases building cost</h5></b>
+
+<b><h2>PERK INFORMATION</h2></b>
+
+<b><h3>Dash (3 XP Points)</h3></b>
+
+<b><h5>(Uses 250 stamina)</h5></b>
+
+<b><h3>SuperJump (5 XP Points)</h3></b>
+
+<b><h5>(Uses 500 stamina)</h5></b>
+
+<b><h3>SpawnTurret (3 XP Points)</h3></b>
+
+<b><h5>(Uses 1000 stamina)</h5></b>
+
+
+
+
