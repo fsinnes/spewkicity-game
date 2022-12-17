@@ -15,13 +15,7 @@ Current Version: 0.0.1
 
 ~~MultiplayerAlpha2~~
 
-<b><h3>MultiplayerAlpha3(PC)</h3></b>
-
-*coming December 16th*
-
-<b><h3>MultiplayerAlpha3(MAC)</h3></b>
-
-*coming December 16th*
+~~MultiplayerAlpha3~~
 
 <b><h2>CURRENT FEATURES</h2></b>
 
@@ -33,8 +27,13 @@ Current Version: 0.0.1
 - Health/Stamina/Experience System
 - Live MiniMap
 - Wave Spawning System
+- Vehicles
 
 <b><h2>LATEST VIDEOS</h2></b>
+
+Damage numbers, should switching, drivable vehicles
+
+https://www.youtube.com/watch?v=8LGQ8oj6NJA
 
 Multiplayer Testing
 
